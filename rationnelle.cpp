@@ -1,6 +1,7 @@
 #include "rationnelle.h"
 #include <iostream>
 
+using namespace rap;
 using namespace std;
 
 Rationnelle::Rationnelle()
